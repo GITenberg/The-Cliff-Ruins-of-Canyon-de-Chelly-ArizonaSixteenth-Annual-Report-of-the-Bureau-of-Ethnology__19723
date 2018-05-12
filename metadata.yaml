@@ -1,0 +1,34 @@
+_repo: The-Cliff-Ruins-of-Canyon-de-Chelly-ArizonaSixteenth-Annual-Report-of-the-Bureau-of-Ethnology__19723
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mindeleff, Cosmos
+    birthdate: 1863
+    gutenberg_agent_id: '7423'
+    url: http://www.gutenberg.org/2009/agents/7423
+description: ''
+gutenberg_bookshelf:
+- Archaeology
+- Native America
+gutenberg_issued: '2006-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arizona -- Antiquities'
+- !lcsh 'Chelly, Canyon de (Ariz.)'
+- !lcsh 'Cliff-dwellings -- Arizona'
+- !lcsh 'Pueblo Indians -- Antiquities'
+- !lcc 'E011'
+title: 'The Cliff Ruins of Canyon de Chelly, Arizona
+
+  Sixteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian
+  Institution, 1894-95, Government Printing Office, Washington, 1897, pages 73-198'
+url: http://www.gutenberg.org/ebooks/19723
